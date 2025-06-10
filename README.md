@@ -1,4 +1,5 @@
 # learnforever
+
 My first git repository
 <br>
-Author-Ariz
+Author-Ariz Ejaz Khan
